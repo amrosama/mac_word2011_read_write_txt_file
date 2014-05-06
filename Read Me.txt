@@ -1,0 +1,3 @@
+Put the "WordCSV" folder under Mac's Documents Folder like "Documents:WordCSV"
+
+All Set you can open the word file and test the application
